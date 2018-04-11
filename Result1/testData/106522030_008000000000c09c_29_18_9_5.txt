@@ -1,0 +1,1 @@
+{"power": 20, "time": "2017-10-23 14:31:16", "timestamp": 2232940964, "immediately": false, "mac": "00800000a0000a1c", "bandWidth": 500, "modulation": "LORA", "codeRate": "4/5", "frequency": "925100000", "spreadFactor": 9}
